@@ -1,0 +1,114 @@
+.button-show-cours {
+    border-radius: 20px;
+    color: white !important;
+    background-color: #48bbb0 !important;
+    border: 2px solid rgb(1, 1, 1) !important;
+    width: 150px !important;
+    margin-left: 15px !important;
+    height: 50px;
+}
+
+.card-header-course {
+    border-bottom: 1px solid #20658d !important;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: system-ui;
+}
+
+.icon-sport {
+    font-size: 24px;
+    margin-top: 10px;
+}
+.icon-red{
+    color: rgb(148, 14, 14);
+}
+.icon-blue{
+    color: rgb(26, 26, 131);
+}
+.icon-yellow{
+    color: rgb(151, 151, 22);
+}
+.course-card-container {
+    height: 450px !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    border: 5px solid #48bbb0 !important;
+    text-align: center;
+}
+
+.header-wellcome {
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: revert;
+    color: #20658d;
+    margin: 40px 0;
+}
+.package-name-home-user{
+    width: 400px;
+    margin: 5px 0 0 20px !important;
+    color: darkred;
+    float: left;
+    text-align: start;
+}
+.col-left-card{
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.img-package-profile{
+     height: 60px;
+    width: 70px;
+    border-radius: 50%;
+    border: 1px darkred dotted;
+    margin: 0 45px;
+}
+.no-package-to-show{
+    color: #234f25;
+    font-size: 28px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+}
+.btn-go-to-package{
+    background-color: #337a36 !important;
+    margin-top: 30px;
+}
+.btn-go-to-package:hover{
+    background-color: white !important;
+    color: #337a36 !important;
+    margin-top: 30px;
+    border: 1px #337a36 solid !important;
+}
+.item-stage-name-modal{
+    color: #009688;
+    font-size: 18px;
+}
+.number-of-lesson-modal{
+    color: rgb(32, 101, 141);
+    margin-left: 30px !important;
+    font-weight: bold;
+}
+.item-lesson-name-modal{
+    margin-left: 30px !important;
+}
+.item-lesson-btn-modal{
+    float: right;
+    margin: 10px 10px 10px 250px;
+    background-color: rgb(32, 101, 141);
+    padding: 5px;
+    border-radius: 20px;
+    color: white;
+    border: none;
+}
+.filter-div{
+    position: absolute;
+    right: 0;
+    border: 1px solid #127ea1;
+    padding: 10px;
+    background: linear-gradient(180.01deg, #0e93a1 0%, #48bbb0 25.87%, #a9ffde 65.92%, #f5fdff 100%);
+}
+.div-card-item{
+    margin: 10px 0;
+}

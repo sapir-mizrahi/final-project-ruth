@@ -1,0 +1,179 @@
+.courses-container {
+    margin: 50px;
+}
+
+.title-inputs {
+    color: #009688;
+    font-weight: bold;
+    background-color: #ffffff38;
+    font-size: 18px;
+    width: 190px !important;
+}
+
+.grid-board {
+    margin-right: 50px;
+    bottom: -30px;
+}
+
+.courses-heder {
+    margin-bottom: 20px;
+    color: #20658d;
+}
+
+.cours-name {
+    width: 400px;
+}
+
+.category-name {
+    width: 800px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.course-description {
+    width: 400px;
+    margin-bottom: 15px;
+}
+
+.number-of-states {
+    margin-bottom: 20px;
+    flex-direction: column !important;
+}
+
+.add-button-div {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.choose-category {
+    padding-left: 0 !important;
+}
+
+.or-div {
+    color: #20658d;
+    font-weight: bold;
+    font-size: 22px;
+    background-color: #ffffff54;
+    width: 30px !important;
+}
+
+.p-add-category {
+    margin: 0;
+    font-weight: 500;
+}
+
+.select-category {
+    color: #20658d;
+    font-weight: 500;
+}
+
+.btn-add-stage {
+    height: 35px;
+    width: 170px !important;
+    background-color: #20658d !important;
+    font-size: 16px !important;
+    color: white !important;
+    justify-content: center;
+    align-items: center;
+    ;
+}
+
+.btn-save-course {
+    background-color: #009688 !important;
+    font-weight: bold !important;
+    width: 300px !important;
+}
+
+.div-save-course {
+    display: flex !important;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.btn-save-course-and-stages {
+    border-radius: 20px !important;
+    background-color: #009688 !important;
+    color: white !important;
+    border: 2px solid !important;
+    font-weight: bold !important;
+    font-size: 20px !important;
+}
+
+.managment-wrap {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    min-height: 800px;
+    position: relative;
+    box-shadow: 0 12px 15px 0 rgba(0, 0, 0, .24), 0 17px 50px 0 rgba(0, 0, 0, .19);
+    margin: 0 auto;
+    width: 850px;
+    height: auto;
+}
+
+.saved-course-message-container {
+    background-color: white;
+    height: 450px;
+    width: 500px;
+    margin: 30px auto;
+    border-radius: 20px;
+    border: 1px #dcde22 solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.btn-more-course {
+    background-color: #7cb342 !important;
+    width: 200px !important;
+    color: white !important;
+    font-size: 20px !important;
+    margin-bottom: 60px !important;
+}
+
+.icon-save {
+    font-size: 44px;
+    color: green;
+    margin-top: -34px;
+}
+
+.message-saved-successfully {
+    font-size: 34px;
+    display: flex;
+    width: 350px;
+    text-align: center;
+    font-weight: bold;
+    font-family: cursive;
+    color: #1976d2;
+    margin-top: 70px;
+}
+
+.global-input {
+    border-radius: 25px !important;
+}
+
+.btn-nabigate-choosed {
+    align-items: center;
+    display: flex;
+    text-align: center;
+    padding: 5px;
+    border: 1px solid gray;
+    border-bottom: none;
+    border-radius: 7px 7px 0 0;
+    justify-content: center;
+    color: #20658d;
+    font-weight: bold;
+}
+
+.btn-nabigate {
+    align-items: center;
+    display: flex;
+    border-bottom: 1px solid gray;
+    text-align: center;
+    padding: 5px;
+    justify-content: center;
+}

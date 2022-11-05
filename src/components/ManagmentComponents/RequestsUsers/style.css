@@ -1,0 +1,38 @@
+.requests-title {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 0;
+    color: #009688;
+}
+
+td {
+    height: 60px;
+}
+
+th {
+    color: #20658d;
+}
+
+.btn-nabigate-choosed {
+    align-items: center;
+    display: flex;
+    text-align: center;
+    padding: 5px;
+    border: 1px solid gray;
+    border-bottom: none;
+    border-radius: 7px 7px 0 0;
+    justify-content: center;
+    color: #20658d;
+    font-weight: bold;
+}
+
+.btn-nabigate {
+    align-items: center;
+    display: flex;
+    border-bottom: 1px solid gray;
+    text-align: center;
+    padding: 5px;
+    justify-content: center;
+    cursor: pointer;
+}

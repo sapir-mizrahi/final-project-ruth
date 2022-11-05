@@ -1,0 +1,74 @@
+.item-producs {
+    font-size: 22px;
+    margin: 10px;
+}
+
+.react-player {
+    width: 90% !important;
+    height: 600px !important;
+}
+
+.react-player-video {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.video-lesson-container {
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
+}
+
+.title-video-name {
+    font-family: cursive;
+    color: #009688;
+    font-weight: bold;
+    align-items: center;
+    font-size: 28px;
+    justify-content: center;
+    margin: 30px 0;
+}
+
+.title-video-producs {
+    font-size: 18px;
+    font-family: cursive;
+    color: #8262bb;
+    font-weight: bold;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    border: 1px #8262bb double;
+    width: 400px;
+    margin: 10px auto;
+}
+
+.btn-watched {
+    height: 70px !important;
+    width: 180px !important;
+    color: white !important;
+    background-color: #009688 !important;
+}
+
+.btn-watched:hover {
+    height: 70px !important;
+    width: 180px !important;
+    background-color: white !important;
+    color: #009688 !important;
+    border: 2px solid #009688 !important;
+}
+
+.div-watched {
+    justify-content: center;
+    margin-top: 60px !important;
+}
+
+.div-watched-true {
+    height: 70px !important;
+    width: 180px !important;
+    background-color: white !important;
+    color: #009688 !important;
+    border: 2px solid #009688 !important;
+}

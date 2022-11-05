@@ -1,0 +1,98 @@
+.contact-us-container {
+    color: #20658d;
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 50px;
+    text-shadow: 1px 2px #fffcfc;
+}
+
+p {
+    font-weight: bold;
+    display: inline;
+    text-shadow: 2px 2px #fffcfc;
+    margin: 20px 0 30px 0 !important;
+}
+
+h2 {
+    font-weight: bold;
+    font-family: system-ui;
+    margin: 20px 0 30px 0 !important;
+}
+
+.div-icon-between-contact {
+    height: 50px;
+    font-size: 40px;
+    color: #009688;
+    border: 2px solid #009688;
+    display: flex;
+    width: 50px !important;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+}
+
+.div-line-contact {
+    justify-content: space-evenly;
+}
+
+.div-line-icon-contact {
+    text-align: center;
+    position: relative;
+    color: #009688;
+}
+
+.div-line-icon-contact:before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 0;
+    border-top: 1px solid #009688;
+    background: black;
+    width: 100%;
+    transform: translateY(-50%);
+}
+
+.title-inputs-user-name {
+    color: #009688 !important;
+    font-weight: bold !important;
+    font-size: 18px !important;
+}
+
+.user-name {
+    width: 400px;
+    margin-top: 30px !important;
+    align-items: center;
+    margin: auto !important;
+}
+
+.btn-save-comment {
+    background-color: #20658d !important;
+    font-family: cursive;
+    width: 200px;
+    margin: 30px 0 30px 0;
+}
+
+.icon-and-input {
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.icons-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: end;
+}
+
+.icons-form-row {
+    color: #009688;
+    margin: auto;
+}
+
+.form-contact {
+    justify-content: center;
+}

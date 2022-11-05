@@ -1,0 +1,72 @@
+.stages-container {
+    background-color: #d6dfdc;
+    border: 2px #20658d dotted;
+    width: 100%;
+    margin: 15px 0 !important;
+}
+
+.remove-stage {
+    float: right;
+    font-size: 19px;
+    margin-top: 10px !important;
+    justify-content: flex-end;
+    color: #454847;
+    display: flex;
+    cursor: pointer;
+}
+
+.save-stage {
+    float: right;
+    font-size: 20px;
+    margin-top: 10px !important;
+    justify-content: flex-end;
+    color: #454847;
+    display: flex;
+    cursor: pointer;
+
+}
+
+.title-number-stage {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: cursive;
+    color: #492a81;
+    margin-top: 10px !important;
+}
+
+.btn-add-lesson {
+    background-color: #492a81 !important;
+    border: 1px solid white !important;
+}
+
+.btn-add-lesson:hover {
+    background-color: #20658d !important;
+}
+
+.title-inputs-lesson {
+    color: #009688;
+    font-weight: bold;
+    background-color: #ffffff38;
+    font-size: 18px;
+    text-align: center;
+}
+
+.btn-save-lesson {
+    background-color: #492a81 !important;
+}
+
+.icon-add-video {
+    color: #492a81 !important;
+    font-size: 35px;
+    display: flex;
+    cursor: pointer;
+}
+
+.arr-lessons {
+    display: flex;
+}
+
+.icon-lesson {
+    color: #009688;
+    font-size: 16px;
+}

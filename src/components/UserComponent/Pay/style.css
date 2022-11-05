@@ -1,0 +1,102 @@
+.login-wrap {
+    float: left;
+}
+
+.login-wrap-1 {
+    float: left;
+}
+
+.card-package-details {
+    width: 100% !important;
+    max-width: 100%;
+    min-height: 800px;
+}
+
+.card-title {
+    color: #20658d;
+    font-weight: bold;
+    font-family: system-ui;
+}
+
+.card-submit {
+    background-color: #20658d;
+    font-weight: bold;
+}
+
+.div-details-course {
+    margin: 0 25px;
+    display: flex;
+    justify-content: center;
+}
+
+.img-course-details {
+    height: 250px;
+}
+
+.title-course-details {
+    margin: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-size: 28px;
+    color: #20658d;
+}
+
+.body-card-package-details {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img-package-details {
+    height: 210px;
+}
+
+.card-title-package-details {
+    margin-top: 10px !important;
+}
+
+.package-description {
+    font-family: system-ui;
+}
+
+.div-price {
+    color: #20658d;
+    font-weight: bold;
+    align-items: center;
+    justify-content: flex-start;
+    font-size: 20px;
+    display: flex;
+}
+
+.accordion-button {
+    color: black !important;
+    background-color: #ffffff !important;
+    border: 2px solid #009688 !important;
+}
+
+.package-courses-title {
+    font-weight: 600;
+    font-family: system-ui;
+}
+
+.icon-money {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto 10px !important;
+    color: #20658d !important;
+}
+
+.accordion-header {
+    margin: 0 !important;
+}
+
+.card-submit-btu {
+    width: 100%;
+    background-color: #20658d;
+    color: white;
+    height: 40px;
+    border-radius: 20px;
+}

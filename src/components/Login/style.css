@@ -1,0 +1,55 @@
+.group {
+    display: flex;
+    flex-direction: column;
+}
+
+.label-input {
+    color: #363e4d !important;
+    font-weight: bold !important;
+    font-size: 14px !important;
+    margin-top: 5px;
+}
+
+.container-login {
+    margin: 20px;
+    width: 350px;
+}
+
+.input-login {
+    margin-bottom: 5px;
+    border-radius: 20px;
+}
+
+.group-keep {
+    display: flex;
+}
+
+.check-keep-lable {
+    color: #20658d;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+
+.check-keep {
+    margin: 0 !important;
+}
+
+.button-signin {
+    background-color: #4e454a;
+    color: white;
+    border-radius: 20px;
+    font-weight: bold;
+}
+
+.link-forgot-password {
+    color: #20658d;
+    font-weight: bold;
+}
+
+.her {
+    border-top: 1px white solid;
+    padding: 10px;
+    width: 80%;
+    margin: auto;
+}
